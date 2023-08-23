@@ -1,0 +1,20 @@
+# ninja log v5
+2	6677	1678836094571956772	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/grouping_int/grouping_int_cuda.o	4561c9afdfbbbf6d
+2	6726	1678836094623957091	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/interpolation/interpolation_cuda.o	d120083f2f044016
+0	6899	1678836094795958144	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/ballquery/ballquery_cuda.o	905e06c7504f3793
+3	6940	1678836094839958414	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery/knnquery_cuda.o	5fde4ccdf084556b
+3	6978	1678836094875958634	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery_heap/knnquery_heap_cuda.o	b6fd185b7783c22b
+4	7211	1678836095107960056	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/sampling/sampling_cuda.o	f5fbf719f0d3f471
+1	7272	1678836095167960423	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/grouping/grouping_cuda.o	8356622cfca632e7
+0	7373	1678836095267961036	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/featuredistribute/featuredistribute_cuda.o	e8d47f42ca9fb304
+3	7790	1678836095683963585	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/labelstat/labelstat_cuda.o	4df6a41051a6df00
+2	19721	1678836107620036790	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/interpolation/interpolation_cuda_kernel.o	402b864dfd122f51
+2	19830	1678836107728037453	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/grouping_int/grouping_int_cuda_kernel.o	6a1341d3ae51d8e2
+1	19851	1678836107752037600	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/grouping/grouping_cuda_kernel.o	5734d427c25dcd0b
+4	19860	1678836107760037649	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/labelstat/labelstat_cuda_kernel.o	d1d0ab7e166ee9c9
+3	19866	1678836107772037723	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery_heap/knnquery_heap_cuda_kernel.o	18ee566b2a3d888b
+1	19932	1678836107832038091	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/featuredistribute/featuredistribute_cuda_kernel.o	c854eba623b0aed0
+4	19957	1678836107860038263	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/sampling/sampling_cuda_kernel.o	1fbf89d6a416cdcf
+3	20114	1678836108012039196	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/knnquery/knnquery_cuda_kernel.o	752535e516194c37
+4	20319	1678836108204040376	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/pointops_api.o	3d7e80fff0d870fe
+0	20319	1678836108216040449	/home/dgyawa1/Desktop/dev/thesis/learn_region_grow/lib/pointops/build/temp.linux-x86_64-cpython-37/src/ballquery/ballquery_cuda_kernel.o	5ff5b39e285a2009
