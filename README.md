@@ -49,8 +49,20 @@ python examine_h5.py data/scannet.h5
 
 ```
 <HDF5 dataset "count_room": shape (312,), type "<i4">
+min 5451.00 mean 25397.58 max 68432.00
 <HDF5 dataset "points": shape (7924044, 8), type "<f4">
+min -6.17 mean 1.80 max 107.00
+
 ```
+
+```
+Total training points for S3DIS: 844345552
+Total training instances for S3DIS: 3519615
+
+Total training points for Scannet: 741306913
+Total training instances for Scannet: 5026079
+```
+
 
 To convert the H5 data file into individual point cloud files (PLY) in format, run the script as follows.
 PLY files can be opened using the [CloudCompare](https://www.danielgm.net/cc/) program
