@@ -1,5 +1,4 @@
-# LRTransformer: Learn-Region Transformer for object agnostic point cloud segmentation
-
+# Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation
 
 ![architecture](figure/networkarchitecture.png?raw=true)
 
@@ -104,13 +103,13 @@ do
 done
 ```
 
-Train LRTransformer for each area of the S3DIS dataset.
+Train Region-Transformer for each area of the S3DIS dataset.
 
 ```bash
 python train_lr_transformer.py --train-area 1,2,3,4,6 --val-area 5
 ```
 
-Test LRTransformer and measure the accuracy metrics.
+Test Region-Transformer and measure the accuracy metrics.
 
 ```bash
 python test_lr_transformer.py --area 5 --save
